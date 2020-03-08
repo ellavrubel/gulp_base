@@ -1,0 +1,10 @@
+body{
+  background: rgba(0, 177, 0, 0.17);
+  margin: 0;
+  padding: 0;
+  color: brown;
+
+  &:hover{
+    background: blueviolet;
+  }
+}
